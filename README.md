@@ -10,7 +10,7 @@ I’m building a solid foundation in software development, logic, and data proce
 - 🎓 Computer Science undergraduate (UFABC)  
 - 🐍 Currently focusing on **Python**  
 - ☕ Learning **Java**  
-- 🗄️ Studying **SQL**  
+- 🗄️ SQL – relational databases and queries  
 - 🛠️ Academic experience with **C and C++**  
 - 📊 Interest in **data analysis** and backend development  
 - 🧩 Enjoy solving problems and creating practical tools  
