@@ -27,16 +27,13 @@ I’m building a solid foundation in software development, logic, and data proce
 ---
 ## 📂 Featured Projects (Short Overview)
 
-### **1. Financial Control System (Python + Excel)**
+### **1. FinanCard – Income Commitment Analyzer
+FinanCard is a Python tool (CLI) that calculates the income commitment based on credit card spending and compares the result with a Brazilian socioeconomic indicator.
+The objective is to offer a quantitative and contextualized view of the impact of using the card on the user's financial life.
+---.
+
+### **2. Financial Control System (Python + Excel)**
 A functional project that automates daily financial operations for a small business.  
 Includes transaction logging, balance calculation, and data handling using spreadsheets.
-
-### **2. Sensor Monitoring System (Collaboration)**
-A joint project integrating Python with sensor data for monitoring and basic analytics.  
-Currently in early prototyping and experimental phases.
-
-### **3. Algorithms & Academic Exercises**
-A collection of problem-solving activities written in Python, Java, C, and C++.  
-Showcases my development through university logic and programming challenges.
 
 ---
