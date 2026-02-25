@@ -30,7 +30,6 @@ I’m building a solid foundation in software development, logic, and data proce
 ### 1. FinanCard – Income Commitment Analyzer
 FinanCard is a Python tool (CLI) that calculates the income commitment based on credit card spending and compares the result with a Brazilian socioeconomic indicator.
 The objective is to offer a quantitative and contextualized view of the impact of using the card on the user's financial life.
----.
 
 ### **2. Financial Control System (Python + Excel)**
 A functional project that automates daily financial operations for a small business.  
